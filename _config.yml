@@ -17,10 +17,10 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 
-locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/dairy/"
+locale: zh-CN
+title: "Pei的日记"
+description: "心情记录."
+baseurl: "/"
 url: "https://mmistakes.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
